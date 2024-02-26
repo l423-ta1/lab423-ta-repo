@@ -146,8 +146,7 @@
                 "template": {
                   "name": "Quote",
                   "model": "quote",
-                  "quote": "<p>We cannot solve our problems with the same thinking
-        we used to create them.</p>",
+                  "quote": "<p>We cannot solve our problems with the same thinking we used to create them.</p>",
                   "author": "Albert Einstein"
                 }
               }
